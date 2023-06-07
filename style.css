@@ -117,7 +117,7 @@ button:hover {
 
 .acv {
   margin: 1px;
-  font-size: 50px;
+  font-size: 45px;
   font-weight: bold;
   color: #91b387;
   text-transform: uppercase;
@@ -146,5 +146,5 @@ button:hover {
 }
 
 .titleacv {
-  margin: 10px;
+  margin: 12px;
 }
