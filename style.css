@@ -1,0 +1,92 @@
+* {
+  /* margin: 0;
+  padding: 0; */
+  box-sizing: border-box;
+}
+
+section {
+  /* border: 5px solid whitesmoke; */
+  background: linear-gradient(to bottom right, #f7e6c4, #f1c376);
+}
+
+#content {
+  margin: 0 10% 0 10%;
+  width: 70%;
+  border: 5px solid #606c5d;
+  border-radius: 10px;
+  padding: 30px;
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.data {
+  background: #758671;
+  /* margin: 5%; */
+  /* height: 900px; */
+  width: 35%;
+  /* border: 1px solid blue; */
+  /* box-sizing: border-box; */
+  border-radius: 30px;
+}
+
+p {
+  margin: 70px;
+}
+
+.data2 {
+  /* margin: auto; */
+  width: 65%;
+  /* border: 1px solid yellow; */
+  /* box-sizing: border-box; */
+}
+
+.profile {
+  margin: 10%;
+  /* width: 60%; */
+  /* border: 1px solid yellow; */
+  /* box-sizing: border-box; */
+}
+
+.bio {
+  border-radius: 100%;
+  border: 8px solid #606c5d;
+  background: #f7e6c4;
+  width: 200px;
+  height: 200px;
+}
+
+.social {
+  width: 120px;
+  height: 120px;
+}
+
+button {
+  margin-bottom: 30px;
+  background-color: #008cba;
+  border-color: #e7e7e7;
+  color: white;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+.achievement {
+  display: flex;
+  flex-wrap: wrap;
+  text-align: center;
+  justify-content: center;
+}
+
+.achievement div {
+  border-radius: 20px;
+  border: 8px solid #606c5d;
+  margin: 40px;
+  width: 250px;
+  height: 200px;
+  background: #f7e6c4;
+}
